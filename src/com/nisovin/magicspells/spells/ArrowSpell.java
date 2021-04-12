@@ -32,7 +32,7 @@ import com.nisovin.magicspells.util.SpellReagents;
 public class ArrowSpell extends Spell {
 
 	private static ArrowSpellHandler handler;
-	// YeetMas
+	// YeetMas Figuring this :)
 	String bowName;
 	String spellNameOnHitEntity;
 	String spellNameOnHitGround;
